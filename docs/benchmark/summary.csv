@@ -1,0 +1,21 @@
+file_type,size_mib,mode,median_seconds,mib_per_second,speedup,archive_percent
+Log text,8,Sequential,0.148751,53.78,1.0,13.752
+Log text,8,1 worker,0.146071,54.77,1.018,13.752
+Log text,8,2 workers,0.092602,86.39,1.606,13.752
+Log text,8,4 workers,0.047528,168.32,3.13,13.752
+Log text,8,8 workers,0.041641,192.12,3.572,13.752
+Log text,48,Sequential,0.92879,51.68,1.0,13.752
+Log text,48,1 worker,0.865624,55.45,1.073,13.752
+Log text,48,2 workers,0.441215,108.79,2.105,13.752
+Log text,48,4 workers,0.268456,178.8,3.46,13.752
+Log text,48,8 workers,0.176611,271.78,5.259,13.752
+Random binary,8,Sequential,0.246028,32.52,1.0,100.035
+Random binary,8,1 worker,0.242318,33.01,1.015,100.035
+Random binary,8,2 workers,0.133582,59.89,1.842,100.035
+Random binary,8,4 workers,0.086186,92.82,2.855,100.035
+Random binary,8,8 workers,0.055206,144.91,4.457,100.035
+Random binary,48,Sequential,1.455814,32.97,1.0,100.034
+Random binary,48,1 worker,1.36567,35.15,1.066,100.034
+Random binary,48,2 workers,0.796667,60.25,1.827,100.034
+Random binary,48,4 workers,0.380911,126.01,3.822,100.034
+Random binary,48,8 workers,0.284914,168.47,5.11,100.034

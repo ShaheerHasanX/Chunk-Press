@@ -1,0 +1,10 @@
+{
+  "os": "Ubuntu 24.04.3 LTS",
+  "kernel": "6.18.57",
+  "cpu": "INTEL(R) XEON(R) PLATINUM 8573C",
+  "logical_cpus_available": 9,
+  "trials_per_configuration": 3,
+  "chunk_kib": 1024,
+  "queue_capacity_each": 8,
+  "zlib_level": 6
+}
