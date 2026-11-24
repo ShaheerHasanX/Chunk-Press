@@ -120,10 +120,3 @@ git push -u origin main
 
 **Multi Threaded File Compression System** · Operating Systems
 
-| Student | Roll number |
-| --- | --- |
-| Syed Shaheer Hasan | 24K-2023 |
-| Syed Muhammad Ahsan | 24K-2041 |
-| Muhammad Hassan Gohar | 24K-2033 |
-
-Prepared for Sir Sandesh Kumar.
